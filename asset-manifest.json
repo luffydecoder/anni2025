@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anni2025/static/css/main.e6c13ad2.css",
+    "main.js": "/anni2025/static/js/main.41c2da1c.js",
+    "static/js/453.5c5cf58a.chunk.js": "/anni2025/static/js/453.5c5cf58a.chunk.js",
+    "index.html": "/anni2025/index.html",
+    "main.e6c13ad2.css.map": "/anni2025/static/css/main.e6c13ad2.css.map",
+    "main.41c2da1c.js.map": "/anni2025/static/js/main.41c2da1c.js.map",
+    "453.5c5cf58a.chunk.js.map": "/anni2025/static/js/453.5c5cf58a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.41c2da1c.js"
+  ]
+}
